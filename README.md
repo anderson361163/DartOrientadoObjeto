@@ -6,15 +6,19 @@ Link do curso: https://cursos.alura.com.br/course/dart-orientacao-objetos
 
 Detalhes do curso:
 
-A primeira classe;
-Utilizando nossos Objetos;
-Criando métodos;
-Composição de classes;
-Get e Set;
-Construtores.
+A primeira classe;<br>
+Utilizando nossos Objetos;<br>
+Criando métodos;<br>
+Composição de classes;<br>
+Get e Set;<br>
+Construtores.<br>
+
+---------------------------------------------------------
 
 Plus
 
-Criação de Exceptions;
-Uso da classe de entrada de dados pelo teclado;
-Criação de datas, pegar data atual e criar datas.
+Criação de Exceptions;<br>
+Uso da classe de entrada de dados pelo teclado;<br>
+Criação de datas, pegar data atual e criar datas.<br>
+
+---------------------------------------------------------
